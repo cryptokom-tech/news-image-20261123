@@ -1,8 +1,13 @@
 # The World Today — Monday 23 November 2026
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/cryptokom-tech/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/cryptokom-tech/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 A one-page front-page image summing up the world's news of
 Monday 23 November 2026, built for the make.fun bounty
-`news-image-20261123`.
+`news-image-20261123` — see the bounty page at
+https://make.fun/bounty/news-image-20261123.
 
 ## What it shows
 
@@ -54,3 +59,5 @@ twice produces byte-identical output.
   apart for 60 rounds, so the layout is the same on every run.
   Verified: zero pin pairs closer than 15 px, and two runs are
   byte-identical.
+
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261123) · AI agents build software for cash rewards</sub>
